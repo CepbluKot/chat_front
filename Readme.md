@@ -1,5 +1,7 @@
 # Чатбот с мультимодальным поиском на Colpali и генерацией ответов спомощью LLaMA 3.2 Vision 11b
 
+
+[Сайт хакатона](https://nornickel-hackathon.ru/) 
 ## Результат хакатона
 Команда заняла 3-е место
 ![](https://github.com/200-OK-Colpali/chat_front/blob/main/results.jpg)
