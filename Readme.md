@@ -107,6 +107,16 @@ streamlit run main.py --server.port=8080  # <- запуск фронта на 80
 4. ✅ Можно заходить в браузер на http://[адрес машины 1]:8080
 
 ## Лицензия
+Файлы:
+
+byaldi.zip - https://disk.yandex.ru/d/dF7eBlPtJs9GNA
+
+test_dataset.zip - https://disk.yandex.ru/d/5i24L_kpgaWYJA
+
+colpali.zip - https://disk.yandex.ru/d/jH1ArfcVQ9z7JQ
+
+
+## Лицензия
 
 Это программное обеспечение включает компоненты, лицензированные по MIT-лицензии, а также компоненты, подпадающие под лицензию LLaMA. Использование компонентов, подпадающих под лицензию LLaMA, регулируется её условиями и ограничениями. Для подробностей смотрите [LICENSE_LLAMA](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision).
 
