@@ -106,8 +106,7 @@ streamlit run main.py --server.port=8080  # <- запуск фронта на 80
 
 4. ✅ Можно заходить в браузер на http://[адрес машины 1]:8080
 
-## Лицензия
-Файлы:
+## Файлы
 
 byaldi.zip - https://disk.yandex.ru/d/dF7eBlPtJs9GNA
 
